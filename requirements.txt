@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+supabase
+pydantic
+httpx
+pytest
+email-validator
